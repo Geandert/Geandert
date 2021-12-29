@@ -28,6 +28,17 @@
   innovative, creative and aesthetically pleasing! I am always looking to collaborate, so give me a comment here or drop me a message on Twitter! (Linked Above) 
   
   
+ ---
+ ### What I believe in;
+ 
+  I'm a firm believer in Open Source Software, and the benefit it can bring for both transparency, support, and the economy.
+  
+  I also believe in the Right to Repair movement, and I will _always_ actively and morally support it. There is absolutely no benefit to brushing Right to Repair aside,
+  and I would urge those who are reading this and asking to themselves _"what is Right to Repair?"_ to research members of the community such as Louis Rossmann, and Repair.Eu. 
+  
+  This affects **everyone** no matter how technologically savvy you are. If you own a laptop, desktop, washing machine, mobile phone, tablet, Television - you are involved and     you should get involved! 
+  
+  
 ---
 ### Github Stats;
 
